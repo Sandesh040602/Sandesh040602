@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Kumar Chandrakar</h1>
-<h3 align="center">My name is Sandesh Kumar Chandrakar 😄. I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech. I am very much interested in full-stack development. I have built many CRUD apps till now. I have also explored the field of competitive programming. I am also interested in programming competition and also practice that from time to time on various online sites.</h3>
+<h3 align="center">I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech. I am very much interested in full-stack development. I have built many CRUD apps till now. I have also explored the field of competitive programming. I am also interested in programming competition and also practice that from time to time on various online sites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandesh040602&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh040602" /> </p>
 
